@@ -1,3 +1,15 @@
+Table of Contents
+=================
+
+   * [Recoveries](#recoveries)
+   * [Roms](#roms)
+      * [Android 10](#android-10)
+      * [Android 11](#android-11)
+      * [Android 12](#android-12)
+   * [Fixes](#fixes)
+   * [Kernels](#kernels)
+   * [Credits](#credits)
+
 ## Recoveries
 
 | Name                       | Type       | Status | Maintainer     | Links                                                                                                                                                      | Notes |
